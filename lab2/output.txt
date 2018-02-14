@@ -1,0 +1,8 @@
+NEWTON'S METHOD WITH STEP ADJUSTMENT:
+The initial point is (-150.0, 255.0)
+
+  1. x_1   = (-0.000062500003907,  0.125000007812503)
+  2. x_2   = (-0.000062500003906,  0.125000007812500)
+
+The approximate solution of the problem is (-0.0000625,  0.1250000)
+The value of function in this point is -0.0625000

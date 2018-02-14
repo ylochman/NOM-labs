@@ -1,0 +1,14 @@
+in stop: grad: 7.00000007143  norm(x-y):  1.0  abs(f(x)-f(y))): 3.0
+in stop: grad: 0.000124999978424  norm(x-y):  0.874999993304  abs(f(x)-f(y))): 3.0625
+in stop: grad: 1.21500032257e-09  norm(x-y):  6.25006010426e-05  abs(f(x)-f(y))): 3.90624887991e-09
+in stop: grad: 9.81307786677e-13  norm(x-y):  6.07500203384e-10  abs(f(x)-f(y))): 0.0
+in stop: grad: 7.00000007143  norm(x-y):  1.0  abs(f(x)-f(y))): 3.0
+in stop: grad: 0.000124999979118  norm(x-y):  0.874999993304  abs(f(x)-f(y))): 3.0625
+in stop: grad: 0.000124999957148  norm(x-y):  0.000124999977483  abs(f(x)-f(y))): 1.29063426613e-15
+in stop: grad: 9.81307786677e-13  norm(x-y):  6.24999836577e-05  abs(f(x)-f(y))): 3.90624763091e-09
+in stop: grad: 6.93889390391e-13  norm(x-y):  3.57566885253e-13  abs(f(x)-f(y))): 0.0
+in stop: grad: 7.00000007143  norm(x-y):  1.0  abs(f(x)-f(y))): 3.0
+in stop: grad: 0.000125000060353  norm(x-y):  0.875000008929  abs(f(x)-f(y))): 3.0625
+in stop: grad: 0.000125000033985  norm(x-y):  0.000124999978421  abs(f(x)-f(y))): 1.65145674913e-15
+in stop: grad: 6.93889390391e-13  norm(x-y):  6.24999826185e-05  abs(f(x)-f(y))): 3.90624849134e-09
+in stop: grad: 6.93889390391e-13  norm(x-y):  3.46944726741e-13  abs(f(x)-f(y))): 0.0
